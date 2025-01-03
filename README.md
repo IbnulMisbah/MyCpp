@@ -72,7 +72,7 @@ This repository is my personal learning journey as I dive into the fascinating w
 
 ## 🙌 Acknowledgments
 
-Thanks to the amazing resources, tutorials, and guides that have helped me start my journey in C++ programming. Special thanks to ** N. M. Abdul Hakim ** for the support and guidance.
+Thanks to the amazing resources, tutorials, and guides that have helped me start my journey in C++ programming. Special thanks to **N. M. Abdul Hakim** for the support and guidance.
 
 ---
 
